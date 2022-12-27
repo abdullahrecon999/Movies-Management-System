@@ -15,3 +15,15 @@ It has the following entities:
 - User
 - Movie
 - Custom Packet
+
+![image](https://user-images.githubusercontent.com/57841431/209641383-020219ae-5717-467c-9402-0099d13ceb56.png)
+
+## ScreenShots
+
+![image](https://user-images.githubusercontent.com/57841431/209641455-2e03d1e4-a7aa-4f2b-97a2-10135f607874.png)
+![image](https://user-images.githubusercontent.com/57841431/209641485-a989cd8b-a519-415e-ac46-90bf7636592d.png)
+![image](https://user-images.githubusercontent.com/57841431/209641513-a17bb37c-b1f5-4237-93ce-a93956c67c9d.png)
+![image](https://user-images.githubusercontent.com/57841431/209641533-e22a3267-257f-4246-ac40-71c218ca77dc.png)
+![image](https://user-images.githubusercontent.com/57841431/209641552-5b8b59ec-5294-4236-8f5c-f6f7df31d7cc.png)
+![image](https://user-images.githubusercontent.com/57841431/209641574-a0aaaac6-65d1-4c6e-8ce1-5d6c4ee113f2.png)
+![image](https://user-images.githubusercontent.com/57841431/209641594-ce1812e9-55e6-47dc-9308-05d7a983aee7.png)
